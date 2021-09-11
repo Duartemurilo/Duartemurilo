@@ -29,6 +29,6 @@
     <a href="https://www.linkedin.com/in/murilo-duarte-martins-7552aa1a6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
  
- ![Snake animation](https://github.com/Duartemurilo/blob/output/github-contribution-grid-snake.svg)
+
 
 
